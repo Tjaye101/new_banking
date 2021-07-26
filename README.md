@@ -12,6 +12,7 @@ Add this in your server.cfg :
 ensure new_banking
 
 Credits: NewWay
-english edit: Tjaye#0001
+
+English edit: Tjaye#0001
 
 Discord: https://discord.gg/dSYb4j2
