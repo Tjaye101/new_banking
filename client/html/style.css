@@ -95,34 +95,34 @@ button{
     transition-duration: 0.3s;
 }
 .btn-blue{
-	background: #3a93e5;
+	background: #ff0000;
 }
 .btn-blue span:last-child{
-	color: #14416a;
+	color: #e415156b;
 }
 .btn-violet{
-	background: #a555e9;
+	background: #ff0000;
 }
 .btn-violet span:last-child{
 	color: #380f5a;
 }
 .btn-orange{
-	background: #e5873b;
+	background: #ff0000;
 }
 .btn-orange span:last-child{
 	color: #5b2c06;
 }
 .btn-green{
-	background: #7cb732;
+	background: #ff0000;
 }
 .btn-green span:last-child{
-	color: #3a5d0d;
+	color: #ff0000;
 }
 .btn-grey{
-	background: #a0a0a0;
+	background: #ff0000;
 }
 .btn-grey span:last-child{
-	color: #333435;
+	color: #ff0000;
 }
 .btn:hover i{
 	transform: rotate(0deg);
@@ -132,7 +132,7 @@ button{
 /* ###############        TOP BAR        ###############*/
 /*######################################################*/
 .topbar{
-	background: linear-gradient(to right, #c8db2b , #268f3a);
+	background: linear-gradient(to right, #ff0000 , #ff00008f);
     height: 59px;
     width: 100%;
     display: flex;
@@ -235,17 +235,17 @@ nav{
 }
 .balance .name{
 	font-size: 25px;
-	color: #a9cc2e;
+	color: #ff0000;
 	margin-bottom: 5px;
     display: block;
 }
 .balance .money{
 	font-size: 60px;
-	color: #28903a;
+	color: #ff0000;
 	font-family: "vision-heavy", sans-serif;
 }
 .balance .money .dollars{
-	color: #e1e0e0;
+	color: #ff0000;
 }
 .list-btn{
 	height: 263px;
@@ -299,7 +299,7 @@ nav{
 }
 .graph li{
 	width: 27px;
-	color: rgba(255,255,255,0.5);
+	color: rgb(255, 255, 255);
 	text-align: center;
 }
 .graph .facebook{
@@ -356,7 +356,7 @@ form{
 label{
 	margin-bottom: 10px;
 	font-size: 17px;
-	color: #414141;
+	color: #ff0000;
 	font-family: "bariol", sans-serif;
 }
 .input-cont{
@@ -374,11 +374,11 @@ label{
     text-align: center;
     border: 0;
     font-size: 60px;
-    color: #28903a;
+    color: #ff0000;
     font-family: "vision-heavy",sans-serif;
 }
 .input-cont input::-webkit-input-placeholder {
-  color: #7cb732;
+  color: #ff0000;
 }
 .double-input{
 	display: flex;
@@ -396,7 +396,7 @@ label{
 .bg-waiting{
 	width: 1000px;
     height: 450px;
-    background: linear-gradient(to right, #d8ed2e, #268f3a);
+    background: linear-gradient(to right, #ff0000, #ff0000);
     position: relative;
     transform: rotate(-8deg);
     top: -70px;
@@ -442,7 +442,7 @@ label{
 	transition-duration: 0.2s;
 }
 #fingerprint-content:hover{
-	border:4px solid #7cb732;
+	border:4px solid #ff0000;
 }
 .fingerprint-default{
 	position: absolute;
@@ -471,7 +471,7 @@ label{
 	width: 126px;
     height: 3px;
     border-radius: 3px;
-    background-color: #a5a5a5;
+    background-color: #ff0000;
     position: absolute;
     bottom: -3px;
     transition-duration: 1.2s;
@@ -553,7 +553,7 @@ label{
 }
 
 .alert-green{
-	background: #7cb732;
+	background: #ff0000;
 }
 
 .alert-orange{
