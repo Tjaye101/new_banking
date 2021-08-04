@@ -3,6 +3,12 @@
 -   Made this english 
 -   Santader bank theme
 
+# Priview 
+![image](https://user-images.githubusercontent.com/83477654/128260292-c8850a59-5025-4b1a-987c-78be9279cf2b.png)
+![image](https://user-images.githubusercontent.com/83477654/128260301-0f5c70a0-44b6-4fca-9ee2-fb7327528f7b.png)
+
+
+
 [REQUIREMENTS]
 
 Dependencies For Full Functionality
