@@ -1,7 +1,7 @@
 # What I did 
 
 -   Made this english 
--   Santadier bank theme
+-   Santader bank theme
 
 [REQUIREMENTS]
 
