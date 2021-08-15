@@ -22,4 +22,3 @@ Credits: NewWay
 
 English edit: Tjaye#0001
 
-[Discord](https://discord.gg/dSYb4j2)
