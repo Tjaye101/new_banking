@@ -4,8 +4,8 @@
 -   Santader bank theme
 
 # Priview 
-![image](https://user-images.githubusercontent.com/83477654/128260292-c8850a59-5025-4b1a-987c-78be9279cf2b.png)
-![image](https://user-images.githubusercontent.com/83477654/128260301-0f5c70a0-44b6-4fca-9ee2-fb7327528f7b.png)
+![image](https://user-images.githubusercontent.com/83477654/129463507-ff8e7f00-4e9d-4c93-a6eb-142d22fb8703.png)
+![image](https://user-images.githubusercontent.com/83477654/129463513-f005aab3-2533-4342-906e-cc259c65cda4.png)
 
 
 
