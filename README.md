@@ -9,7 +9,7 @@
 
 
 
-[REQUIREMENTS]
+# REQUIREMENTS
 - [es_extended](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx%5D/es_extended)
 
 Add this in your server.cfg :
