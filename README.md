@@ -10,10 +10,7 @@
 
 
 [REQUIREMENTS]
-
-Dependencies For Full Functionality
-
-[es_extended](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx%5D/es_extended)
+- [es_extended](https://github.com/esx-framework/esx-legacy/tree/main/%5Besx%5D/es_extended)
 
 Add this in your server.cfg :
 ensure new_banking
