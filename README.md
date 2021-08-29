@@ -15,7 +15,7 @@
 Add this in your server.cfg :
 ensure new_banking
 
+# **Credits**
 Credits: NewWay
-
 English edit: Tjaye#0001
 
